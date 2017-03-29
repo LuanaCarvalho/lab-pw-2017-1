@@ -1,8 +1,8 @@
-# lab-pw-2017-1
+# lab-pw-2017-1 - Luana S. Carvalho
 
-Primeiro Exercício.
+Primeiro Exercício - Mini Biografia.
 
-## Para rodar o projeto
+## Para rodar a Mini Biografia:
 
 ### Para fazer clone.
 

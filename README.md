@@ -1,12 +1,12 @@
 # lab-pw-2017-1
 
-Laboratório da turma de Programação para Web.
+Primeiro Exercício.
 
 ## Para rodar o projeto
 
 ### Para fazer clone.
 
-`git clone https://github.com/walison-moreira-ufg/lab-pw-2017-1`
+`git clone https://github.com/LuanaCarvalho/lab-pw-2017-1`
 
 ### Para rodar com o Tomcat.
 
